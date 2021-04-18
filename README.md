@@ -1,2 +1,2 @@
-# prueba_1
+# Taller2_Practicas
 Pruba para invitar persona
